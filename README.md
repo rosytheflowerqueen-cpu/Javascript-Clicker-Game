@@ -6,7 +6,7 @@ A fun clicking game that is simple and addicting.😆
 - Javascript
 
 ## Live Demo
-https://github.com/rosytheflowerqueen-cpu/Javascript-Clicker-Game?tab=readme-ov-file#live-demo
+ https://rosytheflowerqueen-cpu.github.io/Javascript-Clicker-Game/
 
 ## Author
 **Sophia Cheng**
